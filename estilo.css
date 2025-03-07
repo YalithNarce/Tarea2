@@ -1,0 +1,21 @@
+@charset "utf-8";
+unexpected token "<"at fine3,col1.
+H1 { 
+color: blue;
+font-size:24px;
+text-align:center;
+}
+rk1{
+	color: #000000;
+	font-size:50px;
+	text-align: center;
+font:italic small-caps 700 1.2em/1.5em Arial, Helvetica, sans-serif;
+}
+yalith{
+	align-items: center;
+	font: "Lucida Grande", "Lucida Sans Unicode", "Lucida sans", "DejaVu Sans", verdana, "sans-serif";
+	color:#0ECABB;
+	background-color: beige;
+}
+/* CSS Document */
+
